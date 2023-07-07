@@ -8,23 +8,23 @@ function exportPage(){
         <p>Exports is data exported to spreadsheets and sorted into cells and sheets. You can turn to this feature to see much more detailed information on your employee’s time spending habits.
         </p>
         <h4>How to use Exports:</h4>
-        <li>
-        Choose from 11 different data categories that encompass all DeskTime activities.
-        </li>
-        <li>
-        Download your team’s (as well as your own) productivity data in excel or .csv formats.
-        </li>
-        <li>Analyze employee performance, share with clients to explain your costs or use in any other way
-        </li>
-        <li>
-        Use the raw data to create custom visualizations via pivot tables, charts, .etc.
-        </li>
-        <li>
-        Add reports with detailed billable hours when invoicing clients.
-        </li>
-        <li>
-        Exports store information for a period of 1 year.
-        </li>
+            <li>
+            Choose from 11 different data categories that encompass all DeskTime activities.
+            </li>
+            <li>
+            Download your team’s (as well as your own) productivity data in excel or .csv formats.
+            </li>
+            <li>Analyze employee performance, share with clients to explain your costs or use in any other way
+            </li>
+            <li>
+            Use the raw data to create custom visualizations via pivot tables, charts, .etc.
+            </li>
+            <li>
+            Add reports with detailed billable hours when invoicing clients.
+            </li>
+            <li>
+            Exports store information for a period of 1 year.
+            </li>
         <button class="demo">GOT IT</button>
         <button class="trial">READ MORE</button>
     </div>
